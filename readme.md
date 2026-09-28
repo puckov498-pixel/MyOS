@@ -9,6 +9,8 @@ Free and active developing os for free use on 32-bit C kernel
 Своя ФС (cd, mkdir, rm, type, dir,write, touch)
 Многосекторные файлы
 
+Edit - полноценный текстовый редактор
+
 Уникальный экран смерти - RSOD(Red Screen of Death)(тест командой crash)
 
 # Как использовать
