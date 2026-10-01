@@ -13,6 +13,27 @@ Edit - полноценный текстовый редактор
 
 Уникальный экран смерти - RSOD(Red Screen of Death)(тест командой crash)
 
+autoexec.bat и config.sys
+
+# примеры использования 
+
+**autoexec.bat**
+```
+@echo off
+echo Hello, user!
+echo Lets go!
+```
+
+**config.sys**
+
+```
+; MyOS configuration file
+color=7,0
+prompt=$P$G
+echo=on
+clock=on
+```
+
 # Как использовать
 
 # qemu
