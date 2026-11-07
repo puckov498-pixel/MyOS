@@ -6,6 +6,8 @@ Free and active developing os for free use on 32-bit C kernel
 
 # Интересное
 
+**Новое!! Добавлен gui!**
+
 Своя ФС (cd, mkdir, rm, type, dir,write, touch)
 Многосекторные файлы
 
@@ -42,6 +44,10 @@ clock=on
 
 ```bash
 qemu-system-i386 disk.img
+```
+или
+```bash
+qemu-system-i386 gui.img
 ```
 
 # VirtualBox
